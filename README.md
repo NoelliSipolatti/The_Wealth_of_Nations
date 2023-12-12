@@ -100,3 +100,6 @@ Outline what policies need to be adhered to when working with data.
 
 Upon completing the assignment, I had to save all work in a secure folder named 'Assignment 1 Data Visualisation.'
 
+[View Tableau Visualization](https://public.tableau.com/views/TheWealthofNations_16972913102120/TheWealthofNations?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+
